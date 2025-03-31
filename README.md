@@ -1,6 +1,6 @@
 # 📘 Disciplina: Versionamento de Código
 
-Este repositório exercícios desenvolvidos ao longo da disciplina **Versionamento de Código**. O principal objetivo é explorar os fundamentos do Git e GitHub, aplicando na prática conceitos de controle de versão.
+Este repositório consta exercícios desenvolvidos ao longo da disciplina **Versionamento de Código**. O principal objetivo é explorar os fundamentos do Git e GitHub, aplicando na prática conceitos de controle de versão.
 
 ---
 
